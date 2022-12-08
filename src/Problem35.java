@@ -1,6 +1,6 @@
-import javax.xml.transform.stax.StAXResult;
 
-public class Project35 {
+
+public class Problem35 {
     public static int searchInsert(int[] nums, int target) {
         int start =0;
         int end = nums.length-1;

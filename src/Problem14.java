@@ -1,4 +1,4 @@
-public class Project14 {
+public class Problem14 {
     public static String longestCommonPrefix(String[] strs) {
         StringBuilder result = new StringBuilder();
 

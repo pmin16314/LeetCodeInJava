@@ -1,0 +1,147 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Problem66",
+      "request": "launch",
+      "mainClass": "Problem66",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch p2",
+      "request": "launch",
+      "mainClass": "p2",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch p1",
+      "request": "launch",
+      "mainClass": "p1",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem20",
+      "request": "launch",
+      "mainClass": "Problem20",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem1",
+      "request": "launch",
+      "mainClass": "Problem1",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Person",
+      "request": "launch",
+      "mainClass": "Person",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Employee",
+      "request": "launch",
+      "mainClass": "Employee",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem13",
+      "request": "launch",
+      "mainClass": "Problem13",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem14",
+      "request": "launch",
+      "mainClass": "Problem14",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem26",
+      "request": "launch",
+      "mainClass": "Problem26",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem27",
+      "request": "launch",
+      "mainClass": "Problem27",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem3",
+      "request": "launch",
+      "mainClass": "Problem3",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem35",
+      "request": "launch",
+      "mainClass": "Problem35",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem5",
+      "request": "launch",
+      "mainClass": "Problem5",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem56",
+      "request": "launch",
+      "mainClass": "Problem56",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem6",
+      "request": "launch",
+      "mainClass": "Problem6",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem7",
+      "request": "launch",
+      "mainClass": "Problem7",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problem9",
+      "request": "launch",
+      "mainClass": "Problem9",
+      "projectName": "LeetCodeInJava_95410a48"
+    },
+    {
+      "type": "java",
+      "name": "Launch test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "LeetCodeInJava_95410a48"
+    }
+  ]
+}
